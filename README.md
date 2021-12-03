@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Olim1337
+👋 Hi, I’m @Olim1337
 
 <!---
 Olim1337/Olim1337 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
